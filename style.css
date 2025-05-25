@@ -24,3 +24,7 @@ nav{
 }
 main{
  background-image: url("https://i.pinimg.com/originals/c4/dd/71/c4dd71f4fdce0228ae7904bec8ade45d.png") 
+}
+nav a:hover{
+    color:green;
+}
