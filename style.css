@@ -18,6 +18,10 @@ footer{
 nav{
     font-size: 35px;
 }
+
+nav:hover{
+    color:green
+}
 .d ceson{
    font-size: 40px;
 }
